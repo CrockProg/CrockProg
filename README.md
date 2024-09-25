@@ -1,4 +1,4 @@
-### Hey there <img src="./img/pengue.gif" alt="pengue" style="height: 2em; vertical-align: middle;">
+### Hey there <img src="img/pengue.gif" alt="pengue" style="vertical-align: middle;">
 
 
 ```txt
