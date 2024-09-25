@@ -1,4 +1,20 @@
-### Hey there 
+### Hey there <img src="./img/pengue.gif" alt="pengue" style="height: 2em; vertical-align: middle;">
 
-![pengue](https://github.com/user-attachments/assets/25669077-b236-4abe-b1b8-177c7870413c)
+
+```txt
+   >^<               /\           >^<               
+                                                    _____________________      
+                       /# \                 \./   < I like billgates.sex! >
+                     /### \    /\                   ---------------------
+         ~^~     /   ###\  /##\                     / 
+     /\           /    ## # /##\/ \         /\   /\ 
+    /#\         / /  /      /   # / #\      \ \_/ /
+  /  ##\  /\  /// //  /\  /    _/  /  #\     (`Y') 
+ /###   \# //  /   /   \      /  /    # \   ()~*~()
+/ //###  \# \/    / ## \   / /   _  / {  \  (_)-(_)
+`--`~~--`-`-== `-`= == ~~ -=`=-`````~- =' ==`~~~~~~
+```
+
+- [gists](https://gist.github.com/nuckle)
+
 
