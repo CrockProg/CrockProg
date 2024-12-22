@@ -21,5 +21,5 @@
 ```
 
 - [gists](https://gist.github.com/nuckle)
-- [public PGP key](https://keys.openpgp.org/vks/v1/by-fingerprint/<fingerprint>)
+- [public PGP key](https://keys.openpgp.org/vks/v1/by-fingerprint/6FA2D139363AF79D185DE1D53932F6595FC3B650)
 
