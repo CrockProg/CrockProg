@@ -20,6 +20,13 @@
 `--`~~--`-`-== `-`= == ~~ -=`=-`ᓚᘏᗢ`~- =' ==`~~~~~~~~ -
 ```
 
-- [gists](https://gist.github.com/nuckle)
-- [public PGP key](https://keys.openpgp.org/vks/v1/by-fingerprint/6FA2D139363AF79D185DE1D53932F6595FC3B650)
+
+- Email: `nuckle@itscat.org`
+- Matrix: [@nuckle:yatrix.org](https://matrix.to/#/@nuckle:yatrix.org)
+- Blog: [itscat.org](https://itscat.org)
+- [Public PGP key](https://keys.openpgp.org/vks/v1/by-fingerprint/6FA2D139363AF79D185DE1D53932F6595FC3B650)
+
+Additional resources:
+
+[gists](https://gist.github.com/nuckle) | [GitLab](https://gitlab.com/nuckle)
 
